@@ -1,0 +1,5 @@
+C:\Users\Chetan\Documents\GitHub\Chetan\WCF\Chetan\MyFirstServiceSolution\DatabaseConsoleApplication\WCFBookService\bin\WCFBookService.dll
+C:\Users\Chetan\Documents\GitHub\Chetan\WCF\Chetan\MyFirstServiceSolution\DatabaseConsoleApplication\WCFBookService\bin\WCFBookService.pdb
+C:\Users\Chetan\Documents\GitHub\Chetan\WCF\Chetan\MyFirstServiceSolution\DatabaseConsoleApplication\WCFBookService\obj\Debug\WCFBookService.dll
+C:\Users\Chetan\Documents\GitHub\Chetan\WCF\Chetan\MyFirstServiceSolution\DatabaseConsoleApplication\WCFBookService\obj\Debug\WCFBookService.pdb
+C:\Users\Chetan\Documents\GitHub\Chetan\WCF\Chetan\MyFirstServiceSolution\DatabaseConsoleApplication\WCFBookService\obj\Debug\WCFBookService.csprojResolveAssemblyReference.cache
