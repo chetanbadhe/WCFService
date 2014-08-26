@@ -68,6 +68,7 @@
       <Generator>WCF Proxy Generator</Generator>
       <LastGenOutput>Reference.cs</LastGenOutput>
     </None>
+    <Content Include="AjaxControlToolkit.dll" />
     <Content Include="REST.aspx" />
     <Content Include="SOAP.aspx" />
     <Content Include="Styles\Site.css" />

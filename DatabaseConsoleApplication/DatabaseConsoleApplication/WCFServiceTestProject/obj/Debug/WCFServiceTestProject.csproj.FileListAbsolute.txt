@@ -1,0 +1,6 @@
+C:\Users\Chetan\Documents\GitHub\WCFService\DatabaseConsoleApplication\DatabaseConsoleApplication\WCFServiceTestProject\bin\WCFServiceTestProject.dll
+C:\Users\Chetan\Documents\GitHub\WCFService\DatabaseConsoleApplication\DatabaseConsoleApplication\WCFServiceTestProject\bin\WCFServiceTestProject.pdb
+C:\Users\Chetan\Documents\GitHub\WCFService\DatabaseConsoleApplication\DatabaseConsoleApplication\WCFServiceTestProject\bin\AjaxControlToolkit.dll
+C:\Users\Chetan\Documents\GitHub\WCFService\DatabaseConsoleApplication\DatabaseConsoleApplication\WCFServiceTestProject\obj\Debug\WCFServiceTestProject.csprojResolveAssemblyReference.cache
+C:\Users\Chetan\Documents\GitHub\WCFService\DatabaseConsoleApplication\DatabaseConsoleApplication\WCFServiceTestProject\obj\Debug\WCFServiceTestProject.dll
+C:\Users\Chetan\Documents\GitHub\WCFService\DatabaseConsoleApplication\DatabaseConsoleApplication\WCFServiceTestProject\obj\Debug\WCFServiceTestProject.pdb

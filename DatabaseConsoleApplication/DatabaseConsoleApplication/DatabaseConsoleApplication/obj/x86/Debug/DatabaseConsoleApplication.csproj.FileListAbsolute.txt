@@ -4,3 +4,8 @@ C:\Users\Chetan\Documents\GitHub\Chetan\WCF\Chetan\MyFirstServiceSolution\Databa
 C:\Users\Chetan\Documents\GitHub\Chetan\WCF\Chetan\MyFirstServiceSolution\DatabaseConsoleApplication\DatabaseConsoleApplication\obj\x86\Debug\DatabaseConsoleApplication.exe
 C:\Users\Chetan\Documents\GitHub\Chetan\WCF\Chetan\MyFirstServiceSolution\DatabaseConsoleApplication\DatabaseConsoleApplication\obj\x86\Debug\DatabaseConsoleApplication.pdb
 C:\Users\Chetan\Documents\GitHub\Chetan\WCF\Chetan\MyFirstServiceSolution\DatabaseConsoleApplication\DatabaseConsoleApplication\obj\x86\Debug\DatabaseConsoleApplication.csprojResolveAssemblyReference.cache
+C:\Users\Chetan\Documents\GitHub\WCFService\DatabaseConsoleApplication\DatabaseConsoleApplication\DatabaseConsoleApplication\bin\Debug\DatabaseConsoleApplication.exe.config
+C:\Users\Chetan\Documents\GitHub\WCFService\DatabaseConsoleApplication\DatabaseConsoleApplication\DatabaseConsoleApplication\bin\Debug\DatabaseConsoleApplication.exe
+C:\Users\Chetan\Documents\GitHub\WCFService\DatabaseConsoleApplication\DatabaseConsoleApplication\DatabaseConsoleApplication\bin\Debug\DatabaseConsoleApplication.pdb
+C:\Users\Chetan\Documents\GitHub\WCFService\DatabaseConsoleApplication\DatabaseConsoleApplication\DatabaseConsoleApplication\obj\x86\Debug\DatabaseConsoleApplication.exe
+C:\Users\Chetan\Documents\GitHub\WCFService\DatabaseConsoleApplication\DatabaseConsoleApplication\DatabaseConsoleApplication\obj\x86\Debug\DatabaseConsoleApplication.pdb

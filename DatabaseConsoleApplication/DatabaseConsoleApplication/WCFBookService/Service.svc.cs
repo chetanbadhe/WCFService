@@ -21,7 +21,7 @@ namespace WCFBookService
     {
         string ConnectionString = System.Configuration.ConfigurationManager.ConnectionStrings["ConnectionString"].ConnectionString;
 
-        static bool isThreadStarted = false;
+        static volatile bool isThreadStarted = false;
         public void StartBachGroundThread()
         {
             if (!isThreadStarted)
